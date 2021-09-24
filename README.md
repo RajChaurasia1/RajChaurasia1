@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RajChaurasia1
+- 👋 Hi, I’m Raj Chaurasia 
 - 🌱 I’m currently pursuing Electrical Engineering from IIT BHU
 - 👀 I’m interested in Software Development
 
