@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Raj Chaurasia 
-- 🌱 I’m currently pursuing Electrical Engineering from IIT BHU
-- 👀 I’m interested in Software Development
-
-
-
+Hi there 👋, I'm Raj Chaurasia
+- 💻 Software Engineer II at Microsoft
+- 🎓 IIT (BHU) Graduate
+- 🌱 Passionate about Backend Engineering, Distributed Systems, and AI/LLM Applications
+- 🧠 Interested in System Design, Scalable Architectures, and Problem Solving
+- 🏎️ Interests: Formula 1, Cricket, and Football
 
 
 <!---
